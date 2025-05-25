@@ -1,4 +1,4 @@
-## Hello world! This is Abizar Al Gifari Rahman 👋👋👋👋<br> [ Data Scientist | Data Analyst | AI & ML Engineer] 
+## Hello world! This is Abizar Al Gifari Rahman 👋👋👋👋 [ Data Scientist | Data Analyst | AI & ML Engineer] 
 ===============================================================
 
 
