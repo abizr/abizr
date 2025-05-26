@@ -1,5 +1,5 @@
 ## Hello world! This is Abizar Al Gifari Rahman 👋👋👋👋 [ Data Scientist | Data Analyst | AI & ML Engineer] 
-=======================================================================================================
+============================================================================================
 
 
 ![Abizar Al Gifari](img/Black%20and%20Blue%20Tech%20Engineer%20LinkedIn%20Banner.png)
