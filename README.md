@@ -1,5 +1,5 @@
 ## Hello world! This is Abizar Al Gifari Rahman 👋👋👋👋 [ Data Scientist | Data Analyst | AI & ML Engineer] 
-===============================================================
+=======================================================================================================
 
 
 ![Abizar Al Gifari](img/Black%20and%20Blue%20Tech%20Engineer%20LinkedIn%20Banner.png)
@@ -74,5 +74,5 @@ Connect with me
 ![https://www.linkedin.com/in/abizar-al-gifari/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 #### My Github Stats:
-![Abizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abizar&show_icons=true&theme=highcontrast)
+![Abizar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abizr&show_icons=true&theme=highcontrast)
  
